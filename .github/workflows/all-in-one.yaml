@@ -1,7 +1,7 @@
 name: All-In-One
 env:
-  REPO_OWNER: meroware
-  REPO_NAME: example-event-dispatcher-workflows
+  REPO_OWNER: Ekbert87
+  REPO_NAME: testing_workflows
   GITHUB_TOKEN: ${{ secrets.TOKEN }}
 on:
   repository_dispatch:
